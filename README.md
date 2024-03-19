@@ -1,4 +1,4 @@
-# BlackCoffer NLP Task
+# NLP Task
 
 This Python script is designed to scrape data from a list of URLs, analyze the text content, and compute various NLP (Natural Language Processing) metrics.
 
